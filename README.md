@@ -1,2 +1,0 @@
-# cryengine
-code of cryengine
